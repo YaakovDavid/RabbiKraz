@@ -21,23 +21,7 @@ body:after {
 		url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/163884/pause.svg);
 }
 
-article{
-	/* position: absolute; */
-	/* width: 30%;
-	height: 300px;
-	top: 40px;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	margin: auto;
-	text-align: center;
-	padding: 50px 5%;
-	box-sizing: border-box;
-	box-shadow: 0 0 21px 0px rgba(0,0,0,0.3);
-  border-radius: 10px;
-  margin: 10px;
-  float: left; */
-}
+
 
 .cont{
 	margin-bottom: 28px;
@@ -272,9 +256,6 @@ article{
 }
 
 article{
-  /* border: 1px solid aqua;
-
-  border-radius: 8px; */
   margin-top: 20px;
   text-align: center;
   padding: 10px;
@@ -285,21 +266,7 @@ article{
 
 
 
-	/* position: absolute; */
-	/* width: 30%;
-	height: 300px;
-	top: 40px;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	margin: auto;
-	text-align: center;
-	padding: 50px 5%;
-	box-sizing: border-box;
-	box-shadow: 0 0 21px 0px rgba(0,0,0,0.3);
-  border-radius: 10px;
-  margin: 10px;
-  float: left; */
+
 
 
 
