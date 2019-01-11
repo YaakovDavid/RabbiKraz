@@ -222,9 +222,21 @@ body:after {
 
 
 
+#myInput {
+  width: 90%;
+  font-size: 16px;
+  padding: 8px 5px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
 
+li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
 
-
+}
 
 
 
@@ -261,8 +273,10 @@ article{
   padding: 10px;
   box-sizing: border-box;
 	box-shadow: 0px 1px 1px 1px rgba(214, 212, 212, 0.3);
-  border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid white;
 }
+
 
 
 
